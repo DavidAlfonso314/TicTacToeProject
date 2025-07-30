@@ -2,6 +2,7 @@
 
 A Basic Tic Tac Toe project that communicates between a client and a server.
 
+I changed something 
 
 # Python Requirements
 	Client written in python
